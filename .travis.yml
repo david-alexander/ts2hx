@@ -1,5 +1,7 @@
 language: c
 
+sudo: required
+
 env:
   - HAXE_VER=development
 
